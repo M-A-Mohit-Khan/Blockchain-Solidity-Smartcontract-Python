@@ -1,7 +1,7 @@
 //SPDX-License-Identifier:MIT
 pragma solidity ^0.6.0;
 
-contract Simplestorage{
+contract SimpleStorage{
     //Init variable favoritNumber
     //By default variables are internal, to access it use public before
     //Public variables are also view functions
